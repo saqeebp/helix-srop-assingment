@@ -1,4 +1,4 @@
-# Helix SROP — AI Support Concierge
+# Helix SROP — Saqeeb Pathan
 
 A stateful RAG orchestration pipeline (SROP) for intelligent support that remembers context across turns and process restarts.
 
